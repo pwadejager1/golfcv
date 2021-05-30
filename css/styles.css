@@ -1,0 +1,246 @@
+
+
+body {
+  /* font-family: 'Montserrat', sans-serif; */
+  /* font-family: 'Ubuntu', sans-serif; */
+}
+
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Montserrat-Black';
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Montserrat-Bold';
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Montserrat-Bold';
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+/* p {
+  color: #708090;
+  font-family: 'Montserrat-Bold';
+  font-size: 1.7rem;
+  line-height: 1.5;
+  font-weight: bold;
+} */
+
+/* Navigation Bar */
+
+.navbar {
+  padding-bottom: 0 0 4.5rem;
+
+}
+
+#navbarSupportedContent {
+
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.nav-link{
+  color: #fff;
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light', sans-serif;
+}
+
+.nav-item {
+  padding: 0 18px;
+
+}
+
+/* Download Buttons */
+.download-button {
+  margin: 5% 3% 5% 0%;
+}
+
+/* Title Image */
+.title-image{
+  width: 50%;
+  transform: rotate(15deg);
+  right: 30%;
+}
+
+#topContent {
+padding: 0 99%;
+font-family: 'Ubuntu';
+font-size: 2.5rem;
+font-weight: bold;
+color: #fff;
+}
+
+.topContent_cl {
+  color: #fff;
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light', sans-serif;  
+}
+
+/* Features Section */
+#features {
+  background-color: #fff;
+  color: #708090;
+  font-family: 'Montserrat-Bold';
+  line-height: 1.5;
+  font-weight: bold;
+  padding: 5% 15%;
+  font-size: 1.7rem;
+}
+
+/* .feature-box {
+  text-align: center;
+  padding: 5%;
+} */
+
+/* Features Section */
+#profile {
+  background-color: #ff4c68;
+  color: #708090;
+  font-family: 'Montserrat-Bold';
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: bold;
+  padding: 5% 40%;
+}
+
+#big-easy {
+  background-color: #ff4c68;
+  color: #708090;
+  font-family: 'Montserrat-Bold';
+  font-weight: bold;
+  padding: 0% 15% 0% 15%;
+  font-size: 1.1rem;
+}
+
+.big-easy-column{
+  padding: 1%;
+}
+
+.icon {
+   color: #ef1872;
+   margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* Testimonial Section */
+
+/* Photo Gallery */
+
+#photo-gallery {
+  padding: 3% 15%;
+  text-align: center;
+  background-color:  #fff;
+  color: #708090;
+  font-size: 1.1rem;
+}
+
+.photo-item {
+  padding: 7% 15%;
+
+}
+
+.photo-image {
+  /* width: 10%; */ */
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.photo-next {
+  color: #708090;
+  background-color:  #708090;
+}
+
+.photo-prev {
+  color: #708090;
+  background-color:  #708090;
+}
+
+
+/* Dream Section */
+#dream {
+  padding: 3% 15%;
+  text-align: center;
+  background-color:  #ff4c68;
+  color: #fff;
+  font-size: 1.25rem;
+  line-height: 1.75;
+  font-weight: bold;
+}
+
+/* Video Gallery */
+
+#video-gallery {
+  padding: 3% 15%;
+  text-align: center;
+  background-color:  #fff;
+  color:  #708090;
+  font-size: 1.1rem;
+}
+
+.video-item {
+  padding: 7% 15%;
+}
+
+.video-image {
+  /* width: 10%; */ */
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.video-next {
+  color: #708090;
+  background-color:  #708090;
+}
+
+.video-prev {
+  color: #708090;
+  background-color:  #708090;
+}
+
+/* Contact Section */
+#contacting {
+  padding: 3% 15%;
+  text-align: center;
+  background-color:  #fff;
+  color: #708090;
+}
+
+.contact-me {
+  font-family: 'Montserrat-Bold';
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #708090;
+}
+
+/* Footer Section */
+#footer {
+  text-align: center;
+  background-color:  #fff;
+}
